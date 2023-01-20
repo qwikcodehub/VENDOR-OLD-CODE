@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a5391c8dd59081b9e7a09394ef11f4f8/core-1.7.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "386",
+                        "endColumns": "100",
+                        "endOffsets": "482"
+                    }
+                },
+                {
+                    "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/res/values-pt-rBR/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "203",
+                        "endOffsets": "304"
+                    }
+                },
+                {
+                    "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/res/values-pt-rBR/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "211",
+                        "endColumns": "72",
+                        "endOffsets": "283"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "309",
+                        "endColumns": "76",
+                        "endOffsets": "381"
+                    }
+                }
+            ]
+        }
+    ]
+}

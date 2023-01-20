@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> está a ter problemas com os Serviços do Google Play. Tente novamente."</string>
+    <string name="exo_download_completed">Transferência concluída</string>
+    <string name="exo_download_description">Transferir</string>
+    <string name="exo_download_downloading">A transferir…</string>
+    <string name="exo_download_failed">Falha na transferência</string>
+    <string name="exo_download_notification_channel_name">Transferências</string>
+    <string name="exo_download_paused">Transferências colocadas em pausa</string>
+    <string name="exo_download_paused_for_network">Transferências a aguardar uma rede</string>
+    <string name="exo_download_paused_for_wifi">Transferências a aguardar Wi-Fi</string>
+    <string name="exo_download_removing">A remover as transferências…</string>
+    <string name="fcm_fallback_notification_channel_label">Diversas</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

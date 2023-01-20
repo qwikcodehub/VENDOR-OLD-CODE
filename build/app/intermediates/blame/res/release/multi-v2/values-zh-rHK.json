@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "211",
+                        "endColumns": "66",
+                        "endOffsets": "277"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "830",
+                        "endColumns": "70",
+                        "endOffsets": "896"
+                    }
+                },
+                {
+                    "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/749a58fff08207b4cdbe852c8ae3759b/exoplayer-core-2.17.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,167,225,278,350,404,478,554",
+                        "endColumns": "55,55,57,52,71,53,73,75,58",
+                        "endOffsets": "106,162,220,273,345,399,473,549,608"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "272,328,384,442,495,567,621,695,771",
+                        "endColumns": "55,55,57,52,71,53,73,75,58",
+                        "endOffsets": "323,379,437,490,562,616,690,766,825"
+                    }
+                },
+                {
+                    "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a5391c8dd59081b9e7a09394ef11f4f8/core-1.7.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "901",
+                        "endColumns": "100",
+                        "endOffsets": "997"
+                    }
+                },
+                {
+                    "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "166",
+                        "endOffsets": "417"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "166",
+                        "endOffsets": "267"
+                    }
+                }
+            ]
+        }
+    ]
+}

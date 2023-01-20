@@ -1,0 +1,378 @@
+{
+  "project_info": {
+    "project_number": "406042946214",
+    "project_id": "store-qwik-production",
+    "storage_bucket": "store-qwik-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406042946214:android:85feada852143cd3d8a267",
+        "android_client_info": {
+          "package_name": "com.app.qwik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406042946214-0ukjqgvr28s7skecdurt2ansijgpu3g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.qwik",
+            "certificate_hash": "1da0fe32c747eea8cb9f88afe15e97cee4fb9d3e"
+          }
+        },
+        {
+          "client_id": "406042946214-47ee61odavruabnsvic2qau27eptlg1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.qwik",
+            "certificate_hash": "4e7770973bef2cd2032ffeb7e650ab7b8bd2c0d1"
+          }
+        },
+        {
+          "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTV8hXD3qIKmPpVYPhEebkLW5v_5xITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406042946214-0bpr93t1cc3384etsen2365n1rhi6qfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qwik.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406042946214:android:db38467321fa1aa0d8a267",
+        "android_client_info": {
+          "package_name": "com.app.qwika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406042946214-5pql5prnhtp7deb64u9evaqc5dh5mkrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.qwika",
+            "certificate_hash": "4e7770973bef2cd2032ffeb7e650ab7b8bd2c0d1"
+          }
+        },
+        {
+          "client_id": "406042946214-scrbperssdd0n6md3eqhp50div2jtds9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.qwika",
+            "certificate_hash": "1da0fe32c747eea8cb9f88afe15e97cee4fb9d3e"
+          }
+        },
+        {
+          "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTV8hXD3qIKmPpVYPhEebkLW5v_5xITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406042946214-0bpr93t1cc3384etsen2365n1rhi6qfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qwik.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406042946214:android:3b1e6bf1d8904aa3d8a267",
+        "android_client_info": {
+          "package_name": "com.qwik.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406042946214-062t31qrafjqqv4ag5l6juglmvhkhinu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qwik.deliveryboy",
+            "certificate_hash": "40a531109868c7d572be2dcdf0ab909fce53f91d"
+          }
+        },
+        {
+          "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTV8hXD3qIKmPpVYPhEebkLW5v_5xITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406042946214-0bpr93t1cc3384etsen2365n1rhi6qfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qwik.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406042946214:android:d630036bc075f85dd8a267",
+        "android_client_info": {
+          "package_name": "com.qwik.deliveryboynew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406042946214-qan7gbgn2nrtpkg6qopb1hgq8m0f1fr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qwik.deliveryboynew",
+            "certificate_hash": "1da0fe32c747eea8cb9f88afe15e97cee4fb9d3e"
+          }
+        },
+        {
+          "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTV8hXD3qIKmPpVYPhEebkLW5v_5xITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406042946214-0bpr93t1cc3384etsen2365n1rhi6qfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qwik.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406042946214:android:acc7df7e76dbc726d8a267",
+        "android_client_info": {
+          "package_name": "com.qwik.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406042946214-krl85g3smrqtoj2b6tdo89bj7phjri1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qwik.merchant",
+            "certificate_hash": "494f55030a86137ff128c60aba7bd681d69d2b4c"
+          }
+        },
+        {
+          "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTV8hXD3qIKmPpVYPhEebkLW5v_5xITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406042946214-0bpr93t1cc3384etsen2365n1rhi6qfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qwik.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406042946214:android:5ba0f9dfe4c6a929d8a267",
+        "android_client_info": {
+          "package_name": "com.qwik.merchantnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406042946214-1fpnhpershjjjrphp7t93fsiq10fkois.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qwik.merchantnew",
+            "certificate_hash": "1da0fe32c747eea8cb9f88afe15e97cee4fb9d3e"
+          }
+        },
+        {
+          "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTV8hXD3qIKmPpVYPhEebkLW5v_5xITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406042946214-0bpr93t1cc3384etsen2365n1rhi6qfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qwik.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406042946214:android:1e4decd2b105eafdd8a267",
+        "android_client_info": {
+          "package_name": "com.qwika.deliveryboynewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406042946214-lo0pvhn0hnpkjfcthuf8ttg5ajlm6cev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qwika.deliveryboynewa",
+            "certificate_hash": "1da0fe32c747eea8cb9f88afe15e97cee4fb9d3e"
+          }
+        },
+        {
+          "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTV8hXD3qIKmPpVYPhEebkLW5v_5xITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406042946214-0bpr93t1cc3384etsen2365n1rhi6qfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qwik.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406042946214:android:92d9994000dc916ed8a267",
+        "android_client_info": {
+          "package_name": "com.qwika.merchantnewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406042946214-kj600i5nto11get5q6iuphqi6sd2ap49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qwika.merchantnewa",
+            "certificate_hash": "1da0fe32c747eea8cb9f88afe15e97cee4fb9d3e"
+          }
+        },
+        {
+          "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTV8hXD3qIKmPpVYPhEebkLW5v_5xITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406042946214-j51sds8rm1mv7vu2bbmna2531m0ggnp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406042946214-0bpr93t1cc3384etsen2365n1rhi6qfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qwik.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

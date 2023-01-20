@@ -1,0 +1,698 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:1-81:12
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:1-81:12
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:1-81:12
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:1-81:12
+MERGED from [:bluetooth_thermal_printer] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/bluetooth_thermal_printer/intermediates/library_manifest/release/AndroidManifest.xml:2:1-10:12
+MERGED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:2:1-46:12
+MERGED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:2:1-28:12
+MERGED from [:url_launcher_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/path_provider_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:vibration] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/vibration/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:wakelock] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/webview_flutter_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_compression_flutter] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_compression_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:audioplayers] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/audioplayers/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:connectivity] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_keyboard_visibility] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_keyboard_visibility/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:phone_number] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/phone_number/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/video_player_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_image_compress] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_image_compress/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/1572b4d41d2d5e295719bf0b5a0c8b4b/window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:17:1-58:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/edfff11a7b71331dfa3297b4336af7ee/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/d8c0321353e8928c29bdc164f8890451/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7d98252ab2fd060b8284c4225dd59095/core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a961434061f1c89e2320eeb5d5ebc47d/exoplayer-hls-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/40260734d4616743f45049401fbe56f2/exoplayer-dash-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a658e30906d69ce4534650acdb506f23/exoplayer-smoothstreaming-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/749a58fff08207b4cdbe852c8ae3759b/exoplayer-core-2.17.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7f70a5951e37193efb703843a05f4034/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2b5c59114eb93e5b8fbff66012f8518b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/e3ec8cf22a1ea03da6361e9c021567d4/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b6eae72ad7c10392470fa83b3f2f892c/heifwriter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/671c3a585be2cb4e3534528b356588a3/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/71cc47b39e1c028b505c5b5aa33388cb/firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/d805892276ce3822ea951516527a300e/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/c78156e22ec4a2e1e403bec9f7fa8606/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b60d812d928429abb3f040b9c4693f8d/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/259eaf9259a190fc45138cd0c4fb3db4/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/74f5ed002fffd468b4a9c5af4d7c89d6/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4feaf7da42cb5825583c88611244c51b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4cc55b34e9ebac707230b73b029daec9/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5122d80305917ef68ad4b579c663a27b/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/0989e5ea452f7b8397ef555ed20542e0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a5391c8dd59081b9e7a09394ef11f4f8/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/9a4ea0da84c9f9fbca5639724a5c5729/exoplayer-datasource-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2495dcd87e73ba14bef36b9c5784661f/jetified-exoplayer-extractor-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4836aca7f9d67546e92707739a563b70/exoplayer-decoder-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b23d737552fb9b579e09174ca10bbfb0/exoplayer-database-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/eeea1f17471561ef951b2cc68e5990e1/jetified-exoplayer-common-2.17.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/da8e271931fb9b7440d31752929cf53b/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/3bfe6037fd15a10e02b752cc191f5539/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/f352b930e228eb1f93634f68156eb3ad/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/69bd7e2f0fe83c827a68de95d03d2550/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8d9f5ce19ccfffde4e70efe172862425/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2fc4d1b0c33a4d3999d9363428e8b4a8/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/682d489ac3bf77a97b1017fb7a1eadba/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5164c61636c57d79c5c8d60983f82f81/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/088c5185b5ff454f2cdaea48861318a4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7f910ecf8526d0a68a349cdfe233a6d9/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/9e6c5641df0c972a74da6529c9b4960a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4a2247f5f13f6e6b08337066320d7164/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/3f1a61fc843af79fc8dfda03dc0921ef/threetenabp-1.2.3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2e61fbb886023828524094ee9f3ce9ab/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:1-81:12
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:1-81:12
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:1-81:12
+	package
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:1-81:12
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:1-81:12
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:11:5-68
+MERGED from [:bluetooth_thermal_printer] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/bluetooth_thermal_printer/intermediates/library_manifest/release/AndroidManifest.xml:7:5-68
+MERGED from [:bluetooth_thermal_printer] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/bluetooth_thermal_printer/intermediates/library_manifest/release/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:12:5-74
+MERGED from [:bluetooth_thermal_printer] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/bluetooth_thermal_printer/intermediates/library_manifest/release/AndroidManifest.xml:8:5-74
+MERGED from [:bluetooth_thermal_printer] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/bluetooth_thermal_printer/intermediates/library_manifest/release/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:12:22-71
+queries
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:14:5-27:15
+intent
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:15:9-18:18
+action#android.intent.action.VIEW
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:16:13-65
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:16:21-62
+data
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:17:13-44
+	android:scheme
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:17:19-41
+	android:mimeType
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:25:19-41
+application
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:29:5-80:19
+MERGED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:12:5-26:19
+MERGED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:12:5-26:19
+MERGED from [:url_launcher_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7f70a5951e37193efb703843a05f4034/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7f70a5951e37193efb703843a05f4034/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/671c3a585be2cb4e3534528b356588a3/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/671c3a585be2cb4e3534528b356588a3/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/d805892276ce3822ea951516527a300e/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/d805892276ce3822ea951516527a300e/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/c78156e22ec4a2e1e403bec9f7fa8606/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/c78156e22ec4a2e1e403bec9f7fa8606/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.7.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a5391c8dd59081b9e7a09394ef11f4f8/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a5391c8dd59081b9e7a09394ef11f4f8/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/da8e271931fb9b7440d31752929cf53b/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/da8e271931fb9b7440d31752929cf53b/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/3f1a61fc843af79fc8dfda03dc0921ef/threetenabp-1.2.3/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/3f1a61fc843af79fc8dfda03dc0921ef/threetenabp-1.2.3/AndroidManifest.xml:7:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:31:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a5391c8dd59081b9e7a09394ef11f4f8/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:30:9-37
+	android:icon
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:33:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:32:9-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:34:9-35:70
+	android:value
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:35:13-68
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:34:20-65
+activity#com.qwika.merchantnewa.MainActivity
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:37:9-74:20
+	android:launchMode
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:39:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:42:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:44:13-55
+	android:exported
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:43:13-36
+	android:configChanges
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:41:13-163
+	android:theme
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:40:13-47
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:38:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:49:13-52:17
+	android:resource
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:51:15-52
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:50:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:58:13-61:17
+	android:resource
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:60:15-61
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:59:15-79
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:63:13-65:43
+	android:value
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:65:17-40
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:64:17-93
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:66:13-69:29
+action#android.intent.action.MAIN
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:67:17-68
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:67:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:68:17-76
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:68:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:70:13-73:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:71:17-69
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:71:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:72:17-76
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:72:27-73
+meta-data#flutterEmbedding
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:77:9-79:33
+	android:value
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:79:13-30
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:78:13-44
+uses-sdk
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+MERGED from [:bluetooth_thermal_printer] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/bluetooth_thermal_printer/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:bluetooth_thermal_printer] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/bluetooth_thermal_printer/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/path_provider_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/path_provider_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:vibration] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/vibration/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:vibration] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/vibration/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/webview_flutter_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/webview_flutter_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_compression_flutter] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_compression_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_compression_flutter] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_compression_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:audioplayers] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/audioplayers/intermediates/library_manifest/release/AndroidManifest.xml:7:5-44
+MERGED from [:audioplayers] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/audioplayers/intermediates/library_manifest/release/AndroidManifest.xml:7:5-44
+MERGED from [:connectivity] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_keyboard_visibility/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_keyboard_visibility/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:phone_number] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/phone_number/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:phone_number] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/phone_number/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/video_player_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/video_player_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_image_compress] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_image_compress/intermediates/library_manifest/release/AndroidManifest.xml:6:5-9:55
+MERGED from [:flutter_image_compress] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_image_compress/intermediates/library_manifest/release/AndroidManifest.xml:6:5-9:55
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/1572b4d41d2d5e295719bf0b5a0c8b4b/window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/1572b4d41d2d5e295719bf0b5a0c8b4b/window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/edfff11a7b71331dfa3297b4336af7ee/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/edfff11a7b71331dfa3297b4336af7ee/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/d8c0321353e8928c29bdc164f8890451/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/d8c0321353e8928c29bdc164f8890451/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7d98252ab2fd060b8284c4225dd59095/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7d98252ab2fd060b8284c4225dd59095/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a961434061f1c89e2320eeb5d5ebc47d/exoplayer-hls-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a961434061f1c89e2320eeb5d5ebc47d/exoplayer-hls-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/40260734d4616743f45049401fbe56f2/exoplayer-dash-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/40260734d4616743f45049401fbe56f2/exoplayer-dash-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a658e30906d69ce4534650acdb506f23/exoplayer-smoothstreaming-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a658e30906d69ce4534650acdb506f23/exoplayer-smoothstreaming-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/749a58fff08207b4cdbe852c8ae3759b/exoplayer-core-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/749a58fff08207b4cdbe852c8ae3759b/exoplayer-core-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7f70a5951e37193efb703843a05f4034/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7f70a5951e37193efb703843a05f4034/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2b5c59114eb93e5b8fbff66012f8518b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2b5c59114eb93e5b8fbff66012f8518b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/e3ec8cf22a1ea03da6361e9c021567d4/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/e3ec8cf22a1ea03da6361e9c021567d4/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b6eae72ad7c10392470fa83b3f2f892c/heifwriter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b6eae72ad7c10392470fa83b3f2f892c/heifwriter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/671c3a585be2cb4e3534528b356588a3/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/671c3a585be2cb4e3534528b356588a3/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/71cc47b39e1c028b505c5b5aa33388cb/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/71cc47b39e1c028b505c5b5aa33388cb/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/d805892276ce3822ea951516527a300e/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/d805892276ce3822ea951516527a300e/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/c78156e22ec4a2e1e403bec9f7fa8606/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/c78156e22ec4a2e1e403bec9f7fa8606/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b60d812d928429abb3f040b9c4693f8d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b60d812d928429abb3f040b9c4693f8d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/259eaf9259a190fc45138cd0c4fb3db4/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/259eaf9259a190fc45138cd0c4fb3db4/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/74f5ed002fffd468b4a9c5af4d7c89d6/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/74f5ed002fffd468b4a9c5af4d7c89d6/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4feaf7da42cb5825583c88611244c51b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4feaf7da42cb5825583c88611244c51b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4cc55b34e9ebac707230b73b029daec9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4cc55b34e9ebac707230b73b029daec9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5122d80305917ef68ad4b579c663a27b/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5122d80305917ef68ad4b579c663a27b/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/0989e5ea452f7b8397ef555ed20542e0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/0989e5ea452f7b8397ef555ed20542e0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a5391c8dd59081b9e7a09394ef11f4f8/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/a5391c8dd59081b9e7a09394ef11f4f8/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/9a4ea0da84c9f9fbca5639724a5c5729/exoplayer-datasource-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/9a4ea0da84c9f9fbca5639724a5c5729/exoplayer-datasource-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2495dcd87e73ba14bef36b9c5784661f/jetified-exoplayer-extractor-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2495dcd87e73ba14bef36b9c5784661f/jetified-exoplayer-extractor-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4836aca7f9d67546e92707739a563b70/exoplayer-decoder-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4836aca7f9d67546e92707739a563b70/exoplayer-decoder-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b23d737552fb9b579e09174ca10bbfb0/exoplayer-database-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b23d737552fb9b579e09174ca10bbfb0/exoplayer-database-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/eeea1f17471561ef951b2cc68e5990e1/jetified-exoplayer-common-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/eeea1f17471561ef951b2cc68e5990e1/jetified-exoplayer-common-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/da8e271931fb9b7440d31752929cf53b/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/da8e271931fb9b7440d31752929cf53b/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/3bfe6037fd15a10e02b752cc191f5539/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/3bfe6037fd15a10e02b752cc191f5539/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/f352b930e228eb1f93634f68156eb3ad/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/f352b930e228eb1f93634f68156eb3ad/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/69bd7e2f0fe83c827a68de95d03d2550/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/69bd7e2f0fe83c827a68de95d03d2550/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8d9f5ce19ccfffde4e70efe172862425/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8d9f5ce19ccfffde4e70efe172862425/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2fc4d1b0c33a4d3999d9363428e8b4a8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2fc4d1b0c33a4d3999d9363428e8b4a8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/682d489ac3bf77a97b1017fb7a1eadba/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/682d489ac3bf77a97b1017fb7a1eadba/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5164c61636c57d79c5c8d60983f82f81/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5164c61636c57d79c5c8d60983f82f81/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/088c5185b5ff454f2cdaea48861318a4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/088c5185b5ff454f2cdaea48861318a4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7f910ecf8526d0a68a349cdfe233a6d9/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/7f910ecf8526d0a68a349cdfe233a6d9/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/9e6c5641df0c972a74da6529c9b4960a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/9e6c5641df0c972a74da6529c9b4960a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4a2247f5f13f6e6b08337066320d7164/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/4a2247f5f13f6e6b08337066320d7164/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/3f1a61fc843af79fc8dfda03dc0921ef/threetenabp-1.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/3f1a61fc843af79fc8dfda03dc0921ef/threetenabp-1.2.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2e61fbb886023828524094ee9f3ce9ab/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/2e61fbb886023828524094ee9f3ce9ab/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_image_compress] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_image_compress/intermediates/library_manifest/release/AndroidManifest.xml:9:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml
+action#android.intent.action.DIAL
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:20:21-62
+action#android.intent.action.SEND
+ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/android/app/src/main/AndroidManifest.xml:24:21-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:connectivity] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [:connectivity] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/749a58fff08207b4cdbe852c8ae3759b/exoplayer-core-2.17.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/749a58fff08207b4cdbe852c8ae3759b/exoplayer-core-2.17.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/eeea1f17471561ef951b2cc68e5990e1/jetified-exoplayer-common-2.17.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/eeea1f17471561ef951b2cc68e5990e1/jetified-exoplayer-common-2.17.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:12:9-15:72
+	android:exported
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:permission
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:9-22:19
+	android:exported
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:17:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:19:13-21:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:20:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:25:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:28:13-30:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:29:25-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:33:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:34:13-36:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:35:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:39:9-43:38
+	android:authorities
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:41:13-88
+	android:exported
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:42:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [:firebase_messaging] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:40:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-124
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:8:5-66
+MERGED from [:vibration] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/vibration/intermediates/library_manifest/release/AndroidManifest.xml:7:5-66
+MERGED from [:vibration] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/vibration/intermediates/library_manifest/release/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:10:22-76
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:14:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:17:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:19:13-24:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:20:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:20:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:21:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:22:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:23:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:23:25-79
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/402972e942b0ebb76b1181fd633ff559/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/6cf48571c2805b83aae7a70f941989c7/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:29:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:42:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/345455df9f0c2141bdff8b67e956a8f7/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/ebd097245ff6b60e2f253515e27559ad/firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/8fd0c28b219c09c76c4ee9c917cee238/firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/b9d7516bfae8c9185edfcd2eaf59dc8f/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/bb0a66c25b5f4cd5181c9a85d2b3308c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/118b2a3ca09dc07d413ededf41cf4911/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/5080484f0197410dfde1bb26e1bbfbb9/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132

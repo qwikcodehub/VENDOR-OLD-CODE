@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/phone_number/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/24d143f1c65e92de47746b15b4b5755c/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/phone_number/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/24d143f1c65e92de47746b15b4b5755c/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/phone_number/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/24d143f1c65e92de47746b15b4b5755c/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mohamedridzwan/Desktop/Qwika-version.2/Stackfood_codeecanyon/vendor_app_1.2/Store app/build/phone_number/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mohamedridzwan/.gradle/caches/transforms-2/files-2.1/24d143f1c65e92de47746b15b4b5755c/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
